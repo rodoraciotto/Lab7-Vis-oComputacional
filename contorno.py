@@ -55,5 +55,7 @@ for i in range(len(imagens)):
     plt.imshow(imagens[i],'gray')
     plt.xticks([]),plt.yticks([])
 plt.show()
+
+# mostrar o resultado final
 # plt.imshow(final)
 # plt.show()
